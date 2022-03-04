@@ -1,3 +1,5 @@
 nodemodule/*
-**/node_modules/
-
+build/*
+*.crt
+*.pem
+*.key
